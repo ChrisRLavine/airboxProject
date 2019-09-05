@@ -1,0 +1,361 @@
+body {
+    background: ;
+}
+.outternav {
+    background: #272638;
+    height: 430px;
+}
+.logo {
+    margin-right: 0px;
+    width: 172px;
+    height: 100px;
+}
+.homenav {
+    width: 532px;
+    margin-left: 0px;   
+    margin-top: 40px;
+    margin-right: 0px;
+    padding-right: 0px;
+    height: 18px;
+}
+.nav {
+    width: 520px;
+    float: right;
+}
+.home {
+    color: white;
+}
+hr {
+    border-bottom: 1.5px solid grey;
+    height: 1px;
+    background-color: #454545;
+    border: none;
+    margin-bottom: 40px;
+    margin-top: 35px;
+}
+nav a{
+    text-decoration: none;
+    padding: 10px;
+    color: #494961;
+}
+.openheader {
+    text-align: center;
+    color: #716e8b;
+    font-family:  'Open Sans', sans-serif;    
+}
+.mainherodiv {
+    text-align: center;
+}
+.realperson {
+    font-size: 25px;
+    margin: 47px;
+    margin-left: 44px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background: -webkit-linear-gradient(#eee, #555);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: block;
+}
+.customersupport {
+    font-size: 50px;
+    margin-top: -7px;
+    margin-bottom: -17px;
+    color: white;
+    font-weight: 200;
+    display: block;
+}
+.faoc {
+    margin-bottom: 0px;
+    font-size: 34px;
+    margin-top: 7px;
+    background: -webkit-linear-gradient(#eee, #555);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: block;
+}
+p {
+    text-align: center;
+    font-size: 20px;
+    color: #63626c;
+    font-family:  'Open Sans', sans-serif;
+}
+.trynow {
+    color: #ececec;
+    background-color: #716e8b;
+    margin: 10px;
+    width: 118px;
+    border: #716e8b;
+    border-radius: 4px;
+    text-align: center;
+    padding: 8px;
+}
+.outtermid {
+    background: linear-gradient(10deg, #ec9462, #f5a069);
+    height: 300px;
+}
+.controlpanel {
+    width: 296px;
+}
+.cpicon {
+    margin-left: 71px;
+    margin-top: 13px;
+}
+.control {
+    color: white;
+    margin-bottom: 0px;
+}
+.panel {
+    color: white;    
+    margin-top: 0px;
+}
+.controldesc {
+    font-size: 12px;
+}
+.multidomhost {
+    top: 543px;
+    width: 299px;
+    height: 249px;
+    right: 0px;
+    color: white;
+    margin-left: 0px;
+    left: 322px;
+}
+.multidomicon {
+    padding-right: 20px;
+    padding-left: 49px;
+}
+.multidomain {
+    margin-top: 9px;
+    margin-bottom: 0px;
+    color: white;
+}
+.hosting {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    color: white;
+}
+.multidomdesc {
+    font-size: 12px;
+    margin-bottom: 17px;
+    padding-bottom: 4px;
+    border-bottom-width: 0px;
+    border-top-width: 9px;
+    margin-top: 0px;
+    bottom: 50px;
+    top: 184px;
+}
+.ftpservices {
+    left: 694px;
+    bottom: 0px;
+    top: 544px;
+    right: 392px;
+    height: 274px;
+}
+.services {
+    color: white;
+    margin-top: 0px;
+}
+.ftpicon {
+    margin-top: 9px;
+    margin-left: 60px; 
+}
+.ftp {
+    margin-top: 8px;
+    margin-bottom: 0px;
+    color: white;
+}
+.ftpdescr {
+    font-size: 12px;
+}
+.directsupport {
+    width: 296px;
+    height: 250px;
+}
+.directsupporticon {
+    padding-left: 53px;
+    margin-top: 12px;
+}
+.direct {
+    margin-top: 9px;
+    margin-left: 3px;
+    margin-bottom: 0px;
+    color: white;
+}
+.support {
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.dsdescr {
+    font-size: 12px;
+    width: 253px;
+    margin-left: 25px;
+    margin-top: 21px;
+    top: 161px;
+}
+.home {
+    color: white;
+}
+.packages {
+    background-color: white;
+    border: solid white;
+    width: 1327px;
+}
+.outtermid2 {
+    background: linear-gradient(0deg, white, #b3b3b3) 
+}
+.white {
+    border: 1px solid #b3b3b3;
+    background: white;
+    text-align: center;
+    height: 25px;
+    padding-top: 10px;
+}
+.grey {
+    border: 1px solid grey;
+    background: #b3b3b3;
+    text-align: center;
+    height: 25px;
+    padding-top: 10px;
+}
+.minipack {
+    list-style-type: none;
+    padding-left: 0px;
+    margin-top: 0px;
+}
+.userpack {
+    list-style-type: none;
+    padding-left: 0px;
+    margin-top: 0px;
+}
+.propack{
+    list-style-type: none;
+    padding-left: 0px;
+    margin-top: 0px;
+}
+.maxipack {
+    list-style-type: none;
+    padding-left: 0px;
+    margin-top: 0px;
+}
+.minihosting {
+    text-align: center;
+    background: #666283;
+    color: #eee;
+    font-family:  'Open Sans', sans-serif;
+    height: 36px;
+    margin-bottom: 0px;
+    padding-top: 13px;
+    height: 31px;
+}
+.break {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.miniprice {
+    text-align: center;
+    background: #666283;
+    color: #cbcad0;
+    margin-top: 1px;
+    margin-bottom: 0px;
+    height: 30px;
+    padding-top: 8px;
+}
+.permo {
+    color: #ec9462;
+    font-size: 13px;
+}
+.button {
+    text-align: center;
+    background: linear-gradient(10deg, #ec9462, #f5a069);
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+.signup {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.userhosting {
+    text-align: center;
+    background: #666283;
+    color: #eee;
+    font-family:  'Open Sans', sans-serif;
+    height: 36px;
+    margin-bottom: 0px;
+    padding-top: 13px;
+    height: 31px;
+}
+.userprice {
+    text-align: center;
+    background: #666283;
+    color: #cbcad0;
+    margin-top: 1px;
+    margin-bottom: 0px;
+    height: 30px;
+    padding-top: 8px;
+}
+.prohosting {
+    text-align: center;
+    background: #666283;
+    color: #eee;
+    font-family:  'Open Sans', sans-serif;
+    height: 36px;
+    margin-bottom: 0px;
+    padding-top: 13px;
+    height: 31px;
+}
+.proprice {
+    text-align: center;
+    background: #666283;
+    color: #cbcad0;
+    margin-top: 1px;
+    margin-bottom: 0px;
+    height: 30px;
+    padding-top: 8px;
+}
+.maxihosting {
+    text-align: center;
+    background: #666283;
+    color: #eee;
+    font-family:  'Open Sans', sans-serif;
+    height: 36px;
+    margin-bottom: 0px;
+    padding-top: 13px;
+    height: 31px;
+}
+.maxiprice {
+    text-align: center;
+    background: #666283;
+    color: #cbcad0;
+    margin-top: 1px;
+    margin-bottom: 0px;
+    height: 30px;
+    padding-top: 8px; 
+}
+.outterbtm {
+    background: #272638;
+    font-family:  'Open Sans', sans-serif;
+}
+.btm {
+    color: white;
+}
+.hostingser {
+    text-align: center;
+    color: white;
+}
+.serversol {
+    text-align: center;
+    color: white;
+}
+.emailsol {
+    text-align: center;
+    color: white;
+}
+.moreprd {
+    text-align: center;
+    color: white;
+}
